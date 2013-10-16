@@ -38,6 +38,6 @@ Other Notes
 =========================
 SSPI.Importer.getDims( string filename, string spritename ) cost: Disk read if filename hasn't been done before and a hash call
 
-You generally want to store the reference to the dimensions like the example instead of calling getDims because getDims will cost a hash (plus you have to send two string paramaters, generally not a good idea)
+You generally want to store the reference to the dimensions like the example instead of calling getDims because getDims will cost a hash (plus you have to send two string paramaters, generally not a good idea to be doing that multiple times per frame)
 
 If you want to you can copy over the data into your own data types and then call SSPI.Importer.clean() to clear the hashes.

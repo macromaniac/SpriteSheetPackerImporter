@@ -105,6 +105,7 @@ namespace SSPI
             return data[filename].fileData[spritename];
         }
         /*
+        I might allow the function to be called with resources in the future so I'll just leave this here
         public static List<SpriteDims> getDims(string resourcefilename, string resourcename, string spritename)
         {
             return new List<SpriteDims>();

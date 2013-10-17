@@ -17,3 +17,6 @@ C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPa
 C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe.config
 C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.exe
 C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.pdb
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.csprojResolveAssemblyReference.cache
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.pdb

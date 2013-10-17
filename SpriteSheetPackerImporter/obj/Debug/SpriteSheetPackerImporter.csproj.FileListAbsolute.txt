@@ -1,0 +1,19 @@
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe.config
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.pdb
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.csprojResolveAssemblyReference.cache
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.exe
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.pdb
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.Properties.Resources.resources
+c:\users\joeamd12-24-09\documents\visual studio 2012\Projects\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.csproj.GenerateResource.Cache
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe.config
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.exe
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.pdb
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.pdb
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.csprojResolveAssemblyReference.cache
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.Properties.Resources.resources
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.csproj.GenerateResource.Cache
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\bin\Debug\SpriteSheetPackerImporter.exe.config
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.exe
+C:\Users\Joeamd12-24-09\Desktop\Dev\Code\GitRepos\SpriteSheetPackerImporter\SpriteSheetPackerImporter\obj\Debug\SpriteSheetPackerImporter.pdb
